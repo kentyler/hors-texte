@@ -1,0 +1,33 @@
+{
+  "name": "hors-texte",
+  "version": "1.0.0",
+  "description": "text block management",
+  "keywords": [
+    "firestore",
+    "javascript",
+    "node",
+    "web-app"
+  ],
+  "homepage": "https://github.com/kentyler/hors-texte#readme",
+  "bugs": {
+    "url": "https://github.com/kentyler/hors-texte/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentyler/hors-texte.git"
+  },
+  "license": "MIT",
+  "author": "kenneth tyler",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase": "^11.5.0"
+  }
+}
