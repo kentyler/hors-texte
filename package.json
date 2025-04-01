@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "text block management",
   "keywords": [
-    "firestore",
+    "postgres",
     "javascript",
     "node",
     "web-app"
@@ -28,7 +28,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "firebase": "^11.5.0"
+    "express": "^4.21.2"
   }
 }
